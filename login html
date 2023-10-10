@@ -8,5 +8,9 @@
    username
 </label>
 <input type="text" placeholder="user_name">
+<label>
+   password
+</label>
+<input type="password">
 </body>
 </html>
